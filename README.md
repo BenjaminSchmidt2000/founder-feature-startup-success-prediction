@@ -21,12 +21,13 @@ This project aims to predict startup success by analyzing various features of st
 ### **3. Connectivity on LinkedIn**
 - **Number of LinkedIn Followers**
 
-### **4. Natural Language Processing**
+### **4. Extraction Numerical Features LinkedIn Post, Comments, Reactions
+### **5. Natural Language Processing**
 Analysis of LinkedIn data (comments, posts, reactions, and profile descriptions) to create features using:
 - **Unsupervised Clustering Models**
 - **Sentiment Analysis Models**
 - **Supervised Classification Algorithms** (with University Success as the prediction label)
-### **5. Personality Prediction**
+### **6. Personality Prediction**
 - **Publicly Available Tweets**:  
   Use tweets labeled with personality traits to train personality prediction models.
 - **LinkedIn Profile Labeling**:  
@@ -35,7 +36,7 @@ Analysis of LinkedIn data (comments, posts, reactions, and profile descriptions)
   - Use these predictions to label LinkedIn profiles with personality traits.
 - **Personality Features for Startup Success Prediction**:  
   Labeled LinkedIn profiles enable personality prediction for founders, which serves as a feature in startup success prediction.
-### **6. Final Model**
+### **7. Final Model**
 The final model is designed to:
 - Predict startup success based on the aggregated founder features.
 - Extract the **relative importance** of various founder features.
