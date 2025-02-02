@@ -21,7 +21,7 @@ This project aims to predict startup success by analyzing various features of st
 ### **3. Connectivity on LinkedIn**
 - **Number of LinkedIn Followers**
 
-### **4. Extraction Numerical Features LinkedIn Post, Comments, Reactions
+### **4. Extraction Numerical Features LinkedIn Post, Comments, Reactions**
 ### **5. Natural Language Processing**
 Analysis of LinkedIn data (comments, posts, reactions, and profile descriptions) to create features using:
 - **Unsupervised Clustering Models**
