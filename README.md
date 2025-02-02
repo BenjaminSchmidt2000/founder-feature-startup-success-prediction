@@ -2,6 +2,8 @@
 
 This project aims to predict startup success by analyzing various features of startup founders, including job experience, education, connectivity, personality traits, and natural language data. Below is a detailed breakdown of the key features and methods used in this project:
 
+Note: The Data is not uploaded on Github for ethical privacy reasons.
+
 ---
 
 ## **Features Analyzed**
@@ -59,4 +61,12 @@ Personality prediction for the Twitter data can be found in the repository **1_L
 
 # **Feature Creation and Final Model**
 Feature extraction, prediction, and the final model can be found in the **2_Predicting_Founders_Success** repository.
+
+---
+
+# License
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this work for personal, academic, or commercial purposes, provided that proper attribution is given.
+
+For full license details, see the LICENSE file.
+
 
