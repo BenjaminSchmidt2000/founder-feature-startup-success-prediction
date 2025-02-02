@@ -45,5 +45,17 @@ The final model is designed to:
 - Machine learning models for personality prediction and startup success prediction.
 - Analysis of feature importance for founder traits contributing to startup success.
 
+# **Data Collection Process**
+
+The data pipeline is illustrated in the image below. This work was conducted in collaboration with the company YunoAI, which provided us with a dataset of startups. The dataset was enriched by joining and scraping additional data. 
+
+The data scraping processes for Crunchbase, X (formerly Twitter), and LinkedIn can be found in the **0_Scraping** repository.
 
 ![image](https://github.com/user-attachments/assets/e2e6bd7f-ea92-48a1-8bad-afcd20a74d61)
+
+# **X Personality Prediction**
+Personality prediction for the Twitter data can be found in the repository **1_Labeling_Twitter_Data_With_Personality_With_Best_Model**.
+
+# **Feature Creation and Final Model**
+Feature extraction, prediction, and the final model can be found in the **2_Predicting_Founders_Success** repository.
+
