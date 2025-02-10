@@ -2,7 +2,7 @@
 
 This project aims to predict startup success by analyzing various features of startup founders, including job experience, education, connectivity, personality traits, and natural language data. Below is a detailed breakdown of the key features and methods used in this project:
 
-Note: The Data is not uploaded on Github for ethical privacy reasons. For more detailed information feel free to have a look at the thesis PDF:https://drive.google.com/file/d/1KSs1wXHfSNwH5m1gqUWgfJZFeFjF9-lM/view?usp=sharing.This study is conducted in collaboration with **YunoAI**, a pioneering AI technology company dedicated to empowering stakeholders with actionable and timely data.
+Note: The Data is not uploaded on Github for ethical privacy reasons. For more detailed information feel free to have a look at the thesis PDF:https://drive.google.com/file/d/1KSs1wXHfSNwH5m1gqUWgfJZFeFjF9-lM/view?usp=sharing .This study is conducted in collaboration with **YunoAI**, a pioneering AI technology company dedicated to empowering stakeholders with actionable and timely data.
 
 ## **Features Analyzed**
 
