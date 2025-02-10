@@ -57,6 +57,9 @@ The data scraping processes for Crunchbase, X (formerly Twitter), and LinkedIn c
 # **X Personality Prediction**
 Personality prediction for the Twitter data can be found in the repository **1_Labeling_Twitter_Data_With_Personality_With_Best_Model**.
 
+# **Results**
+Through this project, I identified significant potential in leveraging LinkedIn comments, posts, and reactions as predictive features for startup success. I also found that a founder’s VC experience was one of the strongest indicators of founder success and explored the power of company and university success and failure scores as features, measuring the percentage of alumni who become successful founders.
+
 # **Feature Creation and Final Model**
 Feature extraction, prediction, and the final model can be found in the **2_Predicting_Founders_Success** repository.
 
